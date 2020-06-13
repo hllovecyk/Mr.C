@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>不二情书</title>
     <style>
+        <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
+</audio>
         * {
             margin:0;
             padding:0;
@@ -153,7 +155,6 @@
                </button>
            </form>
 
-               <audio src="./energy.mp3" autoplay="autopaly" loop="loop">
-</audio>
+               
 </body>
 </html>
