@@ -1,11 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>不二情书</title>
     <style>
-        <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
-</audio>
         * {
             margin:0;
             padding:0;
@@ -134,8 +132,9 @@
             50%,100%{
                 top:-100%;
             }
+         <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
+         </audio>
     </style>
-    
     <style type="text/css">
         body{
             background-image:url(./极光.jpg);
@@ -145,10 +144,9 @@
         html{
             height:100%;
         }
- </style>
-    
-    </head>
-    <body>
+    </style>
+</head>
+<body>
        <div class="loginBox">
            <h2>Login</h2>
            <form action=""><div class="item">
@@ -165,8 +163,6 @@
                <span></span>
                <span></span>
                </button>
-           </form>
-
-               
+           </form>              
 </body>
 </html>
