@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
 <title>不二情书</title>
-     <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
-         </audio>
     <style>
         * {
             margin:0;
@@ -40,6 +38,7 @@
             text-align: center;
             color:#fff;
             margin-bottom: 30px;
+          text-decoration: none;
         }
         .item{
             height:45px;
@@ -163,4 +162,6 @@
                <span></span>
                <span></span>
                </button>
-           </form>              
+           </form>     
+</body>
+</html>
