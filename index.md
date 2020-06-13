@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>不二情书</title>
+<title>不二情书</title>
+     <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
+         </audio>
     <style>
         * {
             margin:0;
@@ -131,9 +133,7 @@
         @keyframes line4 {
             50%,100%{
                 top:-100%;
-            }
-         <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
-         </audio>
+            }    
     </style>
     <style type="text/css">
         body{
@@ -157,12 +157,10 @@
                    <input type="password" required>
                    <label for="">PassWord</label>
                </div>
-               <button class="btn"><a href="https://hllovecyk.github.io/yklovell/">SUBMIT</a>
+               <buttonclass="btn"><a href="https://hllovecyk.github.io/yklovell/">SUBMIT</a>
                <span></span>
                <span></span>
                <span></span>
                <span></span>
                </button>
            </form>              
-</body>
-</html>
