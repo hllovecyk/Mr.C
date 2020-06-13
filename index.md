@@ -38,7 +38,7 @@
             text-align: center;
             color:#fff;
             margin-bottom: 30px;
-          text-decoration: none;
+            text-decoration: none;
         }
         .item{
             height:45px;
@@ -156,7 +156,7 @@
                    <input type="password" required>
                    <label for="">PassWord</label>
                </div>
-               <buttonclass="btn"><a href="https://hllovecyk.github.io/yklovell/">SUBMIT</a>
+               <button class="btn"><a href="https://hllovecyk.github.io/yklovell/">SUBMIT</a>
                <span></span>
                <span></span>
                <span></span>
