@@ -34,6 +34,7 @@
             box-shadow: 0 15px 25px 0 rgba(0,0,0,0.6);
             padding:40px;
             box-sizing: border-box;
+        opacity:0.4;
         }
         h2{
             text-align: center;
@@ -134,7 +135,18 @@
                 top:-100%;
             }
     </style>
-
+    
+    <style type="text/css">
+        body{
+            background-image:url(./极光.jpg);
+            background-size:100% 100%;
+            height:100%;
+        }
+        html{
+            height:100%;
+        }
+ </style>
+    
     </head>
     <body>
        <div class="loginBox">
