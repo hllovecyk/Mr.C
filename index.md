@@ -153,7 +153,7 @@
                </button>
            </form>
 
-               <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
+               <audio src="./energy.mp3"loop="loop">
 </audiom>
 </body>
 </html>
