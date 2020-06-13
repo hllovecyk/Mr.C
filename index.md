@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -145,7 +145,7 @@
                    <input type="password" required>
                    <label for="">PassWord</label>
                </div>
-               <button class="btn"><a href="https://hllovecyk.github.io/cyklovehl/">SUBMIT</a>
+               <button class="btn"><a href="https://hllovecyk.github.io/yklovell/">SUBMIT</a>
                <span></span>
                <span></span>
                <span></span>
@@ -153,7 +153,7 @@
                </button>
            </form>
 
-               <audio src="./energy.mp3" autoplay="autopaly" loop="loop">
+               <audio src="./energy.mp3" controls="controls" autoplay="autopaly" loop="loop">
 </audiom>
 </body>
 </html>
